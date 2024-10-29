@@ -1,5 +1,5 @@
-- 👋 I’m @AirMill
-- 👀 I’m interested in AI, Image processing for Photography, SAP and Mobile APP creation
-- 🌱 Currently working with AI tools, Python, Kivy, Photoshop, Lightroom, Dx0, PostgreSQL and Figma
-- 💞️ Looking to collaborate on software products development
-- 📫 To contact use email in a profile
+- I’m @AirMill
+- I’m interested in AI, Image processing for Photography, SAP and Mobile APP creation
+- Currently working with AI tools, Python, Kivy, Photoshop, Lightroom, Dx0, PostgreSQL and Figma
+- Looking to collaborate on software products development
+- To contact use email in a profile
